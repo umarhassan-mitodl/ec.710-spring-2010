@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "8e89306c-bdf6-da17-971a-f829ae288663",
+  "instructors": {
+    "content": [
+      "ed134986-b322-073a-adfa-83a85fbe4f4d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a115d7fa-b615-6507-4532-061023d11f78",
+    "website": "ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010"
+  },
+  "course_title": "D-Lab: Medical Technologies for the Developing World",
+  "hide_download": true,
+  "course_description": "D-Lab Health provides a multidisciplinary approach to global health technology design via guest lectures and a major project based on fieldwork. We will explore the current state of global health challenges and learn how to design medical technologies that address those problems. Students may travel to Nicaragua during spring break to work with health professionals, using medical technology design kits to gain field experience for their device challenge. As a final class deliverable, you will create a product design solution to address challenges observed in the field. The resulting designs are prototyped in the summer for continued evaluation and testing.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "EC.710",
+  "course_image_thumbnail": {
+    "content": "fff8b2a9-4663-3ca2-ae4d-a9dcfb4e6e46",
+    "website": "ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Design Assignments with Examples"
+  ],
+  "site_uid": "d71cfeaa-3a4a-4a1a-8580-97a923a6420e",
+  "site_short_id": "ec.710-spring-2010",
+  "site_url_path": "courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010",
+  "title": "Course Metadata"
+}
